@@ -1,18 +1,18 @@
-# ODBC-GAN: An integrated GAN model for outlier detection and batch correction in multi-sample and multi-modal transcriptomics.
+# ODBC-GAN: An integrated GAN model for outlier detection and batch correction in multi-sample and multi-modal transcriptomics
 We propose a Generative Adversarial Networks called ODBC-GAN, which can detect different types of observations (cells or spots), 
 and correct bacth effects among multi-sample datasets.
 
 ## Applicable tasks
-Outlier detection:
-- Detect outlier cells on single-cell datasets.
-- Classify subtypes of the outlier cells.
-- Detect outlier spots on spatial transcriptomics datasets.
-- Classify subtypes of the outlier spots.
+- Outlier detection:
+ -- Detect outlier cells on single-cell datasets.
+ -- Classify subtypes of the outlier cells.
+ -- Detect outlier spots on spatial transcriptomics datasets.
+ -- Classify subtypes of the outlier spots.
 
-Batch correction:
-- Correct the batch effects among single-cell datasets.
-- Correct the batch effects among vertical slice spatial transcriptomics datasets.
-- Correct the batch effects among horizontal slice spatial transcriptomics datasets.
+-Batch correction:
+ -- Correct the batch effects among single-cell datasets.
+ -- Correct the batch effects among vertical slice spatial transcriptomics datasets.
+ -- Correct the batch effects among horizontal slice spatial transcriptomics datasets.
 
 ## Advantages
 - Superior performance.
