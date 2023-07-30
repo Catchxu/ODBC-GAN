@@ -6,11 +6,9 @@ single-cell or spatially resolved transcriptomics dataset. ODBC-GAN in SC mode c
 of cells, and SRT mode combines gene expression, position information, and slice image of spots.
 
 <br/>
-<br/>
 <div align=center>
-<img src="https://github.com/Catchxu/ODBC-GAN/blob/master/figures/logo.png" width="450px">
+<img src="https://github.com/Catchxu/ODBC-GAN/blob/master/figures/logo.png" width="400px">
 </div>
-<br/>
 <br/>
 
 ## Applicable tasks
