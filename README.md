@@ -30,13 +30,5 @@ of cells, and SRT mode combines gene expression, position information, and slice
 - Keep the original data space after batch correction.
 - Applicability to both scRNA-seq and SRT.
 
-## Tested environment
-- CPU: Intel(R) Xeon(R) Platinum 8255C CPU @ 2.50GHz
-- CPU Memory: 256 GB
-- GPU: NVIDIA GeForce RTX 3090
-- GPU Memory: 24 GB
-- System: Ubuntu 20.04.5 LTS
-- Python: 3.9.15
-
 ## Citation
 Coming soon.
