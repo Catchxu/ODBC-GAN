@@ -1,6 +1,17 @@
 # ODBC-GAN: An integrated GAN model for outlier detection and batch correction in multi-sample and multi-modal transcriptomics
-We propose a Generative Adversarial Networks called ODBC-GAN, which can detect different types of observations (cells or spots), 
-and correct bacth effects among multi-sample datasets.
+We propose a Generative Adversarial Networks called **ODBC-GAN** (**O**utlier **D**etection and **B**atch **C**orrection
+**GAN**), which can detect different types of outlier observations (cells or spots), detect the subtypes of outliers further,
+and correct batch effects among multi-sample datasets. ODBC-GAN has two main modes (SC and SRT), which can be suitable for
+single-cell or spatially resolved transcriptomics dataset. ODBC-GAN in SC mode can solve these problem by gene expression
+of cells, and SRT mode combines gene expression, position information, and slice image of spots.
+
+<br/>
+<br/>
+<div align=center>
+<img src="https://github.com/Catchxu/ODBC-GAN/blob/master/figures/logo.png" width="450px">
+</div>
+<br/>
+<br/>
 
 ## Applicable tasks
 - Outlier detection:
@@ -29,3 +40,5 @@ and correct bacth effects among multi-sample datasets.
 - System: Ubuntu 20.04.5 LTS
 - Python: 3.9.15
 
+## Citation
+Coming soon.
