@@ -11,24 +11,8 @@ of cells, and SRT mode combines gene expression, position information, and slice
 </div>
 <br/>
 
-## Applicable tasks
-- Outlier detection:
-  - Detect outlier cells on single-cell datasets.
-  - Classify subtypes of the outlier cells.
-  - Detect outlier spots on spatial transcriptomics datasets.
-  - Classify subtypes of the outlier spots.
-
-- Batch correction:
-  - Correct the batch effects among single-cell datasets.
-  - Correct the batch effects among vertical slice spatial transcriptomics datasets.
-  - Correct the batch effects among horizontal slice spatial transcriptomics datasets.
-
-## Advantages
-- Superior performance.
-- Integrated outlier detection and batch correction in multi-sample transcriptomic data.
-- Avoid negative values after batch correction.
-- Keep the original data space after batch correction.
-- Applicability to both scRNA-seq and SRT.
+## Documentation
+The documentation about ODBC-GAN is available on https://catchxu.github.io/ODBC-GAN-tutorial/
 
 ## Citation
 Coming soon.
