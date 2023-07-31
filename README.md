@@ -7,7 +7,7 @@ of cells, and SRT mode combines gene expression, position information, and slice
 
 <br/>
 <div align=center>
-<img src="https://github.com/Catchxu/ODBC-GAN/blob/master/figures/logo.png" width="400px">
+<img src="./figures/logo.png" width="400px">
 </div>
 <br/>
 
