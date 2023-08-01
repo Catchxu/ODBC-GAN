@@ -12,7 +12,7 @@ of cells, and SRT mode combines gene expression, position information, and slice
 <br/>
 
 ## Documentation
-The documentation about ODBC-GAN is available on https://catchxu.github.io/ODBC-GAN-tutorial/
+The documentation about ODBC-GAN is available on https://catchxu.github.io/ODBC-GAN-tutorial/.
 
 ## Citation
 Coming soon.
